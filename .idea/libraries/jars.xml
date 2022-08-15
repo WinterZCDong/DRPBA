@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/jpbc/jars" />
+      <root url="jar://$USER_HOME$/Downloads/bcprov-jdk18on-171.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/jpbc/jars" recursive="false" />
+  </library>
+</component>
